@@ -2,6 +2,6 @@
   url: /
   children:
     - title: 我的第一篇博客文章
-      url: /_posts/2026-01-11-first-post.md
+      url: /Lilsnack.github.io/first-post/
     - title: 师哥说他不喜欢年下但我是年上啊1
-      url: /_posts/2026-01-11-second-post.md
+      url: /Lilsnack.github.io/second-post/
