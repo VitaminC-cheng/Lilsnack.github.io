@@ -10,7 +10,7 @@ This is my personal blog, created using just-the-docs theme.
 
 ## 最新文章
 
-{% assign posts = site.posts | sort: 'date', 'desc' %}
+{% assign posts = site.posts | sort: 'date' | reverse %}
 {% for post in posts %}
 ### [{{ post.title }}]({{ post.url }})
 {{ post.date | date: '%Y年%m月%d日' }}
