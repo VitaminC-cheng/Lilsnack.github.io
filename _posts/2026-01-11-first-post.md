@@ -2,6 +2,8 @@
 title: "我的第一篇博客文章"
 date: 2026-01-11 12:00:00 +0800
 categories: 博客
+nav_order: 1
+layout: default
 ---
 
 # 欢迎来到我的博客
