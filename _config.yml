@@ -1,6 +1,7 @@
 title: 程同学_vitamin C的零食存放处
 description: 关于张呈和雷淞然的无数种平行宇宙在此坍陷✨
 remote_theme: just-the-docs/just-the-docs
+baseurl: "/Lilsnack.github.io" 
 
 nav_exclude:
   - 404.html
