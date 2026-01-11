@@ -2,6 +2,6 @@
   url: /
   children:
     - title: 我的第一篇博客文章
-      url: /2026-01-11-first-post/
+      url: /_posts/2026-01-11-first-post.md
     - title: 师哥说他不喜欢年下但我是年上啊1
-      url: /2026-01-11-second-post/
+      url: /_posts/2026-01-11-second-post.md
